@@ -97,8 +97,10 @@ The results are:
 - Printed to the console
 - Saved to disk in the `outputs/topwords` directory
 
-Each output line contains: <airline_sentiment>, <word>, <count>
-
+Each output line contains:
+```text
+<airline_sentiment>, <word>, <count>
+```
 
 ---
 
@@ -118,8 +120,10 @@ The results are:
 - Printed to the console
 - Saved to disk in the `outputs/topreason` directory
 
-Each output line contains: <airline>, <negativereason>, <count>
-
+Each output line contains: 
+```text
+<airline>, <negativereason>, <count>
+```
 ---
 
 ### Output
